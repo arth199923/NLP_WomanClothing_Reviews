@@ -28,13 +28,23 @@ Detailed exploratory analysis and dashboard creation including word clouds, freq
 The dataset consists of 23000+ customer reviews and ratings with 11 columns:
 
 Product ID: Clothing ID
+
 Category: Product Category
+
 Subcategory1: Product Subcategory Level1
+
 SubCategory2: Product Subcategory Level2
+
 Location: Customer Location
+
 Customer Age: Customer Age
+
 Channel: Channel Used (Web or Mobile)
+
 Review Title: Review Title
+
 Review Text: Review Description
+
 Rating: Review Rating
+
 Recommend Flag: Customer willing to recommend product or not
